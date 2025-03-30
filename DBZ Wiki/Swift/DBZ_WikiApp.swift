@@ -11,7 +11,7 @@ import SwiftUI
 struct DBZ_WikiApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+            SplashView()
         }
     }
 }
